@@ -23,6 +23,6 @@ latest_posts:
   limit: 3
 ---
 
-Soy Contador Público y Economista, Magíster en Tributación con especialización en Finanzas Territoriales. Actualmente me desempeño como docente e investigador en la Facultad de Ciencias Económicas de la Universidad del Atlántico.
+Soy Contador Público y Economista de la Universidad del Atlántico, Magíster en Tributación de la Universidad Libre de Colombia, y Especialista en Finanzas Territoriales de la Universidad del Atlántico. Actualmente me desempeño como Docente del Programa de Contaduría Pública y Economía, e investigador en la Facultad de Ciencias Económicas de la Universidad del Atlántico.
 
-Mis principales áreas de interés e investigación incluyen la política fiscal, las finanzas públicas territoriales, la educación contable y la contabilidad.
+Mi trabajo se concentra en la educación contable, la contabilidad, y las finanzas públicas y la tributación, con especial interés en cómo estas áreas inciden en la gestión fiscal territorial. Soy Investigador Asociado (I) reconocido por Minciencias, miembro del grupo de investigación Organizaciones Sostenibles, y co-lidero la Unidad Investigativa Contable del Atlántico (UNICA), también reconocida por Minciencias.
