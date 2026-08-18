@@ -2,33 +2,31 @@
 layout: about
 title: about
 permalink: /
-subtitle: Docente Investigador 
+subtitle: "Profesor e Investigador"
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Facultad de Ciencias Económicas</p>
+    <p>Universidad del Atlántico</p>
+    <p>Barranquilla, Colombia</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true
+  scrollable: true
+  limit: 5
 
 latest_posts:
   enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  scrollable: true
+  limit: 3
 ---
 
-Contador Público & Economista de la Universidad del Atlántico. Magister en Tributación de la Universidad Libre de Colombia. Especialista en Finanzas Territoriales de la Universidad del Atlántico. Docente del Programa de Contaduría Pública & Economía de la Universidad del Atlántico. Área de investigación: Educación Contable, Contabilidad, Finanzas Públicas & Tributación. Investigador Asociado (I) de Minciencias. Miembro del Grupo de investigación Organizaciones sostenibles.  Co-líder del grupo de investigación reconocido en Minciencias: Unidad Investigativa Contable del Atlántico (UNICA).
+Soy Contador Público y Economista, Magíster en Tributación con especialización en Finanzas Territoriales. Actualmente me desempeño como docente e investigador en la Facultad de Ciencias Económicas de la Universidad del Atlántico.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Mis principales áreas de interés e investigación incluyen la política fiscal, las finanzas públicas territoriales, la educación contable y la contabilidad.
