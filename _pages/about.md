@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Docente Investigador 
 
 profile:
   align: right
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Contador Público & Economista de la Universidad del Atlántico. Magister en Tributación de la Universidad Libre de Colombia. Especialista en Finanzas Territoriales de la Universidad del Atlántico. Docente del Programa de Contaduría Pública & Economía de la Universidad del Atlántico. Área de investigación: Educación Contable, Contabilidad, Finanzas Públicas & Tributación. Investigador Asociado (I) de Minciencias. Miembro del Grupo de investigación Organizaciones sostenibles.  Co-líder del grupo de investigación reconocido en Minciencias: Unidad Investigativa Contable del Atlántico (UNICA).
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
