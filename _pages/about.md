@@ -8,10 +8,6 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
-  more_info: >
-    <p>Facultad de Ciencias Económicas</p>
-    <p>Universidad del Atlántico</p>
-    <p>Barranquilla, Colombia</p>
 
 selected_papers: true
 social: true
